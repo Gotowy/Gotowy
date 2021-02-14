@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gotowy
+- 👋 Hi, I’m Adam.
 - 👀 I’m interested in front-end technologies.
 - 📫 How to reach me: https://gotowy.github.io
 
