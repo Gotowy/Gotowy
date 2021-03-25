@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam.
 - 👀 I’m interested in front-end technologies.
-- 🌱 Currently I'm starting to learn Framer Motion animation library for React and testing JavaScript code using Jest framework.
+<!-- - 🌱 Currently I'm starting to learn Framer Motion animation library for React and testing JavaScript code using Jest framework. -->
 - 📫 How to reach me: https://gotowy.github.io
 
 <!---
